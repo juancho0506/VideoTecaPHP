@@ -1,0 +1,3 @@
+Creada a partir de la consola de Git.
+
+Si ve este archivo es porque se hizo PUSH correctamente a Github.
